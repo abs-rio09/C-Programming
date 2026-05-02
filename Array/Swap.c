@@ -9,6 +9,7 @@ int main()
      {
         scanf("%d", &arr[i]);
     }
+    // swap method 
     for(int i=0; i<n/2; i++) 
    {
         int temp = arr[i];
