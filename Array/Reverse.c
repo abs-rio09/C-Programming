@@ -18,7 +18,7 @@ int main()
         arr[j] = temp;
     }
 
-    // // Reversing the array in while loop
+    // // Reversing the array using while loop
     // int i=0,j=n-1;
     // while(i<j)
     // {
@@ -28,6 +28,7 @@ int main()
     //     i++;
     //     j--;
     // }
+
     for(int i=0; i<n; i++)   
     {
         printf("%d ", arr[i]);
